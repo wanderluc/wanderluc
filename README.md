@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**wanderluc/wanderluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a [Unity Learn VR App](https://learn.unity.com/course/create-with-vr).
 
-Here are some ideas to get you started:
+- 🎓 I recently graduated from [Digital Futures Academy](https://digitalfutures.com/) as a Software Engineer.
+  
+- 🌱 I’m currently learning **C# and Unity**.
+  
+- 👯 I’m looking to collaborate on more **Peer programming or team projects**.
+  
+- 🤔 I’m looking for help with **Collaborating on Game Jams**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 👨‍💻 All of my projects are available at github.io. -->
+ 
+- 💬 Ask me about **C#, Unity, Java, JavaScript, React**.
+ 
+- ⚡ Fun fact: **Solo travelled to 22 countries**.
